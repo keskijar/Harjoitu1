@@ -1,4 +1,4 @@
-# Harjoitus 1 20.1.2017
+﻿# Harjoitus 1 20.1.2017
 Ensimmäinen labraharjoitus
 
 Tähän tekstiä väliin
@@ -13,3 +13,5 @@ Tähän tekstiä väliin
 Tarkkarit | päivämäärä
 ---| ---
 PC | 01.013.2017
+
+:)
